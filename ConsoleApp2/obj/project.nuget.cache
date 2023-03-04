@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7kNRg7OjSM0u+r83noMrMiro4zqk+EkkKYOIY5NQITIdFHJZczEKp0Aism4cTr92HMZaPa0Zzo8xro7ZQguCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr623_repal\\RiderProjects\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr623_repal\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\gr623_repal\\.nuget\\packages\\newtonsoft.json\\13.0.3-beta1\\newtonsoft.json.13.0.3-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
